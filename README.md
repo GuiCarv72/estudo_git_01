@@ -3,4 +3,6 @@ Este Repositório está servindo de estudo para o curso de Git e GitHub que esto
 
 Fiz minha primeira alteração no repositório local
 
-nova alteração 
+nova alteração
+
+primeira ateração dentro do github
